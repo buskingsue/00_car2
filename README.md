@@ -5,7 +5,7 @@
 # STM32F411RE 보드를 이용한 RC Car controller
 ##
 ## 1. 기능
-##  - 블루투스로 RC Car에 데이터 전송 RC_CAR_Joystick
+##  - 휴대폰 블루투스 앱(arduino bluetooth)으로 RC Car 운전
 ##
 ## 2. 사용한 부품
 ##  - HC-06 블루투스 모듈
