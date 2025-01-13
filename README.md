@@ -1,3 +1,5 @@
+<img width = "30%" src="https://github.com/buskingsue/00_car2/blob/main/rc_car.jpg"> 
+
 # RC Car Project
 ## 
 # STM32F411RE 보드를 이용한 RC Car controller
